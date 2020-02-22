@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Timeline"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,57 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD student"
+  company = "MIT EECS"
+  company_url = "http://www.mit.edu"
+  location = "Cambridge, MA"
+  date_start = "2015-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Research Engineer"
+  company = "Palo Alto Research Center (PARC)"
+  company_url = "www.parc.com"
+  location = "Palo Alto, CA"
+  date_start = "2013-10-01"
+  date_end = "2015-07-30"
+  description = """Fraud Detection in Healthcare."""
+
+[[experience]]
+  title = "Research Intern"
+  company = "INRIA"
+  company_url = "www.parc.com"
+  location = "Nancy, France"
+  date_start = "2013-06-01"
+  date_end = "2015-10-01"
+  description = """Fraud Detection in Healthcare."""
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Salesforce.com"
+  company_url = "www.stanford.edu"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2012-06-01"
+  date_end = "2015-09-01"
+  description = """Fraud Detection in Healthcare."""
+
+[[experience]]
+  title = "Master's Student"
+  company = "Stanford ICME"
+  company_url = "www.stanford.edu"
+  location = "Stanford, CA"
+  date_start = "2013-06-01"
+  date_end = "2015-10-01"
+  description = """Fraud Detection in Healthcare."""
+
+[[experience]]
+  title = "Bachelor's Student"
+  company = "UCSD CSE and Math"
+  company_url = "www.ucsdedu"
+  location = "La Jolla, CA"
+  date_start = "2006-09-01"
+  date_end = "2011-06-01"
+  description = """Fraud Detection in Healthcare."""
 
 +++
