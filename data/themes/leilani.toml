@@ -1,0 +1,19 @@
+# Theme metadata
+name = "leilani"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#A31F34"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#A31F34"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+#home_section_even = "rgb(194, 192, 191)"
