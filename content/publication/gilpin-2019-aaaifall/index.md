@@ -3,7 +3,7 @@
 
 title: "Explaining Possible Futures for Robust Autonomous Decision-Making"
 authors: [Leilani H. Gilpin]
-date: 2020-02-22T07:43:21-05:00
+date: 2019-11-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,18 +13,17 @@ publishDate: 2020-02-22T07:43:21-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication_short: "AAAI Fall Symposium"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [explanations, autonomous driving]
 categories: []
 featured: false
 
@@ -36,8 +35,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: http://ceur-ws.org/Vol-2558/
+url_code: 
 url_dataset:
 url_poster:
 url_project:
@@ -68,14 +67,4 @@ projects: []
 slides: ""
 ---
 
----
-title: "Explaining Possible Futures for Robust Autonomous Decision-Making"
-date: 2019-01-01
-publishDate: 2020-02-22T12:28:41.027408Z
-authors: ["Leilani H. Gilpin"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "To appear in the Proceedings of the AAAI Fall Symposium on Anticipatory Thinking"
----
 

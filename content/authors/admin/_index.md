@@ -49,7 +49,7 @@ travel:
   - place: Northwestern Computer Science
     date: April 3, 2020
     link: 
-  - place: ACM FAT*
+  - place: ACM FAccT
     date: January 27-30, 2020 
     link: 
   - place: TRI Joint University Workshop
@@ -78,6 +78,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/leilanihg
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -104,8 +105,6 @@ local monitoring frameworks to explain opaque mechanims, towards a
 full-system that uses explanations for more robust decision making.
 This allows machines and other complex mechanisms to be able to
 interpret their actions and learn from their mistakes.
-
-
 
 **I am on the academic job market this year.** My materials are
 available: [research statement](files/research.pdf), [teaching

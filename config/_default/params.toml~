@@ -24,6 +24,8 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "L"
 
+color_theme="coffee"
+
 ############################
 ## Basic Info
 ############################
@@ -97,7 +99,7 @@ address = {street = "MIT CSAIL 32-G530, 32 Vassar Street", city ="Cambridge", re
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 32 and take the G-side elevators to the 5th floor.  Exit to your right."
+#directions = "Enter Building 32 and take the G-side elevators to the 5th floor.  Exit to your right."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

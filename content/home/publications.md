@@ -61,9 +61,10 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
+# A complete list of my publications are on my [Google scholar](https://scholar.google.com/citations?user=UFT_ijYAAAAJ&hl=en).
  # CSS class.  css_class = ""
 +++
 
-A complete list of my publications are on my [Google scholar](https://scholar.google.com/citations?user=UFT_ijYAAAAJ&hl=en).
+
 
