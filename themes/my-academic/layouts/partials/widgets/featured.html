@@ -47,6 +47,8 @@
         {{ partial "li_card" . }}
       {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
         {{ partial "li_citation" . }}
+      {{ else if eq $st.Params.design.view 5 }}
+        {{ partial "lei-test" . }}
       {{ else }}
         {{ partial "li_compact" . }}
       {{ end }}
