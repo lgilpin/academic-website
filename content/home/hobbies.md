@@ -40,9 +40,9 @@ weight = 45
 - Roger Schank - _Scripts, Plans, Goals and Understanding: an Inquiry into Human Knowledge Structures_
 - Patick C. Suppes - _Introduction to Logic_
 
-Note: This is a working list.  My [colleage](http://logical.ai) had this interesting idea to list their academic interests as a bookshelf.  Let's pass it along.
+Note: This is a working list.  It is inspired by my [colleage](http://logical.ai).  Let's pass it along.
 
 ## Other Happenings
-* When I'm not working, I enjoy [rowing](http://rowingclub.mit.edu), swimming, and hiking.  I'm also a [retired](https://thetech.com/2017/04/13/water-polo-v137-i9) water polo player.
+* When I'm not working, I enjoy [rowing](http://rowingclub.mit.edu), swimming, and hiking.  I'm also a [former](https://thetech.com/2017/04/13/water-polo-v137-i9) water polo player.
 * Sometimes, I manage to [take photos](https://500px.com/leilanihg).
 * Currently reading: _Rebooting AI_ by Ernest David and Gary Marcus.
