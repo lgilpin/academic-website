@@ -32,6 +32,7 @@ weight = 10
   #text_color_light = true
   
 +++
+* **May 2020**: I gave a seminar about [XAI](publication/gilpin-2018-explaining/) on May 5th in [CS 520](https://web.stanford.edu/class/cs520/): Knowledge Graphs.  [Recording and slides](talk/cs520-xai) are available.  
 * **March 2020**: I will be presenting a poster at the [Women in Data Science (WiDS)](https://www.widscambridge.org/) in Cambridge.
 * **February 2020**: My paper on "Explaining Possible Futures for Robust Autonomous Decision Making" will be published in the [COGSAT '19](https://www.anticipatorythinking.ai/) proceedings. 
 * **January 2020**: My CSAIL Alliances spotlight video [spotlight video](https://cap.csail.mit.edu/engage/spotlights/leilani-gilpin) is available.

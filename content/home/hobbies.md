@@ -43,6 +43,8 @@ weight = 45
 Note: This is a working list.  It is inspired by my [colleage](http://logical.ai).  Let's pass it along.
 
 ## Other Happenings
+* In fall 2018, I learned [How to Make Almost Anything](http://fab.cba.mit.edu/classes/863.18/EECS/people/leilani/index.html). 
 * When I'm not working, I enjoy [rowing](http://rowingclub.mit.edu), swimming, and hiking.  I'm also a [former](https://thetech.com/2017/04/13/water-polo-v137-i9) water polo player.
 * Sometimes, I manage to [take photos](https://500px.com/leilanihg).
+* I am captivated by personality traits and analysis.  I did a project on [detecting personality traits using speech signals](publication/gilpin-2018-perception/).  I consistently score as an [INTJ](https://www.16personalities.com/intj-personality), but am quite in the middle in (T)hinking versus (F)eeling.  
 * Currently reading: _Rebooting AI_ by Ernest David and Gary Marcus.

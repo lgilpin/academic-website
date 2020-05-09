@@ -72,6 +72,7 @@ subtitle = ""
 - Stanford - SMASH Institute: Calculus (Summer 2015)
 
 ## Lectures
+* Stanford - CS 520: [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
 * MIT - 6.905/6.945: [Large-scale Symbolic Systems](https://groups.csail.mit.edu/mac/users/gjs/6.945/)
 * MIT - 6.S978: Privacy Legislation in Practice: Law and Technology
 

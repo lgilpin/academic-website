@@ -23,12 +23,15 @@ bio: My research interests include explainable artificial intellgience,anomaly d
 
 
 interests:
-- Explainable Artificial Intelligence
+- Explainable AI (XAI)
 - Anomaly Detection
-- Autonomous Vehicles
-- Semantic Representation Language
+- Commonsense Reasoning
+- Anticipatory Thinking for Autonomy
+- Semantic Representations of Language
 # of Computational Linguistics
 - Story-enabled intelligence
+#  link: http://logical.ai/story/
+#[Story-enabled intelligence](http://logical.ai/story/)
 - AI & Ethics
 
 education:
@@ -44,18 +47,18 @@ education:
     year: 2011
 
 # LHG on 2/19 want to add this travel segment
-travel:
-  places:
-  - place: Northwestern Computer Science
-    date: April 3, 2020
-    link: 
-  - place: ACM FAccT
-    date: January 27-30, 2020 
-    link: 
-  - place: TRI Joint University Workshop
-    date: January 13-14, 2020
-  - place: AAAI Fall Symposium on Anticipatory Thinking
-    date: November 9-11, 2019
+# travel:
+#   places:
+#   - place: Northwestern Computer Science
+#     date: April 3, 2020
+#     link: 
+#   - place: ACM FAccT
+#     date: January 27-30, 2020 
+#     link: 
+#   - place: TRI Joint University Workshop
+#     date: January 13-14, 2020
+#   - place: AAAI Fall Symposium on Anticipatory Thinking
+#     date: November 9-11, 2019
 #  date: 04/03/2020
 #  date:
 #  link:
