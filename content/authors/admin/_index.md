@@ -10,13 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate 
+role: Research Scientist 
 # in Electrical Engineering and Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
-  url: ""
+- name: Sony AI
+- name: MIT CSAIL
+#- name: Massachusetts Institute of Technology
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts) 
 bio: My research interests include explainable artificial intellgience,anomaly detection, and system debugging.
@@ -38,7 +40,7 @@ education:
   courses:
   - course: PhD in Electrial Engineering and Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2020 (Expected)
+    year: 2020 
   - course: M.S. in Computational and Mathematical Engineering
     institution: Stanford University
     year: 2013
@@ -98,18 +100,15 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Electrical Engineering and Computer Science at
-MIT in CSAIL.  My research focuses on the theories and methodologies
-towards monitoring, designing, and augmenting machines that can
-**explain** themselves for diagnosis, accountability, and
+I am a research scientist at Sony AI working on explainability in AI
+agents.  I recently graduated with my PhD in Electrical Engineering
+and Computer Science at MIT in CSAIL, where I continue as a
+collaborating researcher.  My research focuses on the theories and
+methodologies towards monitoring, designing, and augmenting machines
+that can **explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.  During my PhD, I have developed
 local monitoring frameworks to explain opaque mechanims, towards a
 full-system that uses explanations for more robust decision making.
 This allows machines and other complex mechanisms to be able to
 interpret their actions and learn from their mistakes.
-
-**I am on the academic job market this year.** My materials are
-available: [research statement](files/research.pdf), [teaching
-statement](files/teaching.pdf),
-[diversity statement](files/diversity.pdf), [curriculum vitae](files/cv.pdf)
