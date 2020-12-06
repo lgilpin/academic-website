@@ -32,10 +32,11 @@ weight = 10
   #text_color_light = true
   
 +++
+* **December 2020**: I will be giving a [tech talk](talk/neurips-phd) on my PhD thesis work at NeurIps.  
 * **October 2020**: I have been accepted as a Rising Star in EECS.  
 * **September 2020**: I started working at Sony AI. 
 * **August 2020**: My PhD dissertation was submitted and accepted. 
-* **June 2020**: I passed my PhD defense!  Video coming soon.  
+* **June 2020**: I passed my [PhD Defense](publication/dissertation)! 
 * **May 2020**: Building on the success of the 2019 AAAI Fall Symposium, I'm helping define Antipatory Thinking challenge problems.  Learn more in our [proposal](files/cogsat_v1.pdf)  and [survey](https://docs.google.com/forms/d/e/1FAIpQLSdThcVTvAgKO4doHM8v_j93FzDknYs8RMdWGzun-u5Y2dLq8A/viewform).
 * **May 2020**: I will be giving a talk on "Monitoring Opaque Learning Systems" at the [ICML Workshop on Monitoring and Deploying ML](https://sites.google.com/view/deploymonitormlsystems).
 * **May 2020**: I gave a seminar about [XAI](publication/gilpin-2018-explaining/) on May 5th in [CS 520](https://web.stanford.edu/class/cs520/): Knowledge Graphs.  [Recording and slides](talk/cs520-xai) are available.  

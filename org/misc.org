@@ -1,0 +1,33 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./home/
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: MISC testing
+
+#+DATE: 2020-11-01
+#+HUGO_TAGS: emacs
+#+HUGO_CATEGORIES: menu
+
+#+HUGO_ACTIVE: true
+
+* Academic Interests as a Bookshelf
+- Sylvain Bromberger - /On What We Know We Don’t Know/
+- Yuel Noah Harari - /Sapiens/
+- Marvin Minsky - /The Emotion Machine/
+- Roger Schank - /Scripts, Plans, Goals and Understanding: an Inquiry
+  into Human Knowledge Structures/
+- Patick C. Suppes - /Introduction to Logic/
+Note: This is a working list. It is inspired by my [[https://logical.ai][colleague]]. 
+
+* Other Happenings
+- In fall 2018, I learned [[http://fab.cba.mit.edu/classes/863.18/EECS/people/leilani/index.html][How to Make Almost Anything]].
+- When I’m not working, I enjoy [[https://sites.google.com/site/mitrowingclub/][rowing]], swimming, cooking, knitting,
+  and hiking.  Sometimes, I manage to [[https://500px.com/p/leilanihg?view=photos][take photos]].
+- I am captivated by personality traits and analysis. I did a project
+  on detecting personality traits using speech signals.
+- My [[https://people.csail.mit.edu/razvan][partner]] does great work in medical imaging, and they are on the
+  job market this year!
+- Currently reading: /Rebooting AI/ by Ernest David and Gary Marcus.
+

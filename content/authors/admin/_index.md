@@ -107,8 +107,9 @@ collaborating researcher.  My research focuses on the theories and
 methodologies towards monitoring, designing, and augmenting machines
 that can **explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
-intelligent, machines by design.  During my PhD, I have developed
-local monitoring frameworks to explain opaque mechanims, towards a
-full-system that uses explanations for more robust decision making.
-This allows machines and other complex mechanisms to be able to
-interpret their actions and learn from their mistakes.
+intelligent, machines by design.  During my PhD, I developed "Anomaly
+Detection through Explanations" or ADE, a self-explaining, full system
+monitoring architecture to detect and explain inconsistencies in
+autonomous vehicles.  This allows machines and other complex
+mechanisms to be able to interpret their actions and learn from their
+mistakes.

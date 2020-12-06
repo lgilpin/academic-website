@@ -1,0 +1,45 @@
+* About
+** TODO Travel
+   [2020-02-20 Thu]
+- Editted the =about.html= file in
+  =themes/academic/layouts/partials/widgets/about.html=
+- also editted the about markdown in =content/authors/admin/_index.md=
+** Interests
+** TODO Set up a user profile
+Setup a user profile and then edit the front matter of =home/about.md=
+to associate the About widget with your username (name of the folder
+your created in authors/).
+* Recent Publications
+** TODO how to add from the command line
+* Experience becomes Timeline
+Or something else that is rather clever. 
+* TODO Accomplishments becomes awards
+* Projects
+* Teaching 
+* Various 
+* TODO Contact 
+* TODO Publish 
+#+BEGIN_SRC bash
+#+END_SRC
+** TODO to MIT
+** TODO to csail
+** TODO to github?
+* DONE Youtube
+  CLOSED: [2020-05-09 Sat 09:08]
+=themes/my-academic/layouts/partials/portfolio_li_card.html=
+** Updating Talks 
+* TODO List of new and old talks
+- [[https://github.com/gcushen/hugo-academic/issues/721][Separating]]
+
+* Youtube
+#+BEGIN_SRC html
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/sMHs_jXFwgU?start=3719"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_SRC
+
+* Talks + Vides + slides
+- *MARKDOWN* slides are in =content/slides/<<slide-name.pdf>>=
+  - Not sure when I will use those
+  - Instead, put slides in =files/talks/talk-name.pdf=

@@ -1,0 +1,46 @@
+* About
+** TODO Travel
+   [2020-02-20 Thu]
+- Editted the =about.html= file in
+  =themes/academic/layouts/partials/widgets/about.html=
+- also editted the about markdown in =content/authors/admin/_index.md=
+** Interests
+** TODO Set up a user profile
+Setup a user profile and then edit the front matter of =home/about.md=
+to associate the About widget with your username (name of the folder
+your created in authors/).
+* Recent Publications
+** TODO how to add from the command line
+* Upcoming and Recent Talks
+* Experience becomes Timeline
+Or something else that is rather clever. 
+* TODO Accomplishments becomes awards
+* Projects
+* Various 
+* DONE Contact 
+  CLOSED: [2020-02-22 Sat 14:01]
+* DONE Job materials? 
+  CLOSED: [2020-03-03 Tue 06:58]
+* TODO Publish 
+** TODO to MIT
+** TODO to csail
+** TODO to github?
+* TODO Courses 
+Edit the _index.md within your course/documentation folder
+(e.g. content/courses/example/_index.md) in order to specify a name
+and summary for your course/documentation.
+* TODO Featured as Videos 
+* TODO Change feature color to MIT red. 
+* TODO Populate talks
+* TODO Populate papers
+* TODO Change icon
+* TODO Bigger travel box 
+* For backing stuff up
+	modified:   assets/scss/academic/_widgets.scss
+	modified:   layouts/partials/widgets/about.html
+* for the youtube stuff:
+#+BEGIN_SRC 
+{{ if $youtube_id }}
+   <iframe src="https://www.youtube.com/embed/{{ . }}"/>
+{{ end }}
+#+END_SRC

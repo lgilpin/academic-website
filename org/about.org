@@ -1,0 +1,105 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./home/
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: About Me
+#+OPTIONS: tasks:nil
+#+HUGO_TAGS: emacs
+#+HUGO_CATEGORIES: menu
+#+HUGO_ACTIVE: false
+
+* About Me
+** OrcID
+[[https://orcid.org/0000-0002-9741-2014]]
+0000-0002-9741-2014
+** Short Bio
+*** Sony Bio
+:UPDATED: [2020-12-06 Sun] Dr. Leilani H. Gilpin is a research
+scientist at Sony AI.  Her research focuses on enabling opaque
+autonomous systems to explain themselves for robust decision-making,
+system debugging, and accountability.  Her current work integrates
+explainability into reinforcement learning.
+
+She has a PhD in Computer Science from MIT, an M.S. in Computational
+and Mathematical Engineering from Stanford University, and a B.S. in
+Mathematics (with honors), B.S. in Computer Science (with highest
+honors), and a music minor from UC San Diego.  She is currently
+co-organizing the AAAI Fall Symposium on Anticipatory Thinking, where
+she is the lead of the autonomous vehicle challenge problem.  Outside
+of research, Leilani enjoys swimming, cooking, rowing, and org-mode.
+*** New Bio
+:UPDATED: [2020-09-17] 
+Dr. Leilani H. Gilpin is a research scientist at Sony AI and a
+collaborating researcher at MIT CSAIL.  Her research focuses on
+enabling opaque autonomous systems to explain themselves for robust
+decision-making, system debugging, and accountability.  Her current
+work integrates explainability into reinforcement learning.
+
+She has a PhD in Computer Science from MIT, an M.S. in Computational
+and Mathematical Engineering from Stanford University, and a B.S. in
+Mathematics (with honors), B.S. in Computer Science (with highest
+honors), and a music minor from UC San Diego.  She is currently
+co-organizing the AAAI Fall Symposium on Anticipatory Thinking, where
+she is the lead of the autonomous vehicle challenge problem.  Outside
+of research, Leilani enjoys swimming, cooking, rowing, and org-mode.
+
+*** PhD Bio
+:UPDATED: [2020-07-06] 
+
+Leilani H. Gilpin is a PhD candidate in Electrical Engineering and
+Computer Science at MIT, supervised by Prof. Gerald Jay Sussman and
+funded by the Toyota Research Institute.  She works on enabling
+autonomous vehicles, and other autonomous machines, to explain
+themselves.  More information on her research interests can be seen at
+[people.csail.mit.edu/lgilpin].  Before MIT, Leilani worked as a
+research engineer at Palo Alto Research Center (PARC) focusing on
+anomaly detection in healthcare. Leilani earned a M.S. in
+Computational Mathematical and Engineering from Stanford University in
+2013, and a B.S. in Mathematics (with honors), B.S. in Computer
+Science (with highest honors), and a music minor from UC San Diego
+in 2011.
+
+Leilani is passionate about mentoring students from underrepresented
+minorities through her work as a calculus instructor at SMASH
+Stanford, through the Xerox mentoring program, and the UCSD Alumni board.
+Leilani hopes to continue mentoring students of all backgrounds in
+academia.  
+** Full Bio
+
+** Social
+Twitter: 
+** Job Talk Abstract
+Under most conditions, complex systems are imperfect.  When errors
+occur, as they inevitably will, systems need to be able to (1)
+localize the error and (2) take appropriate action to mitigate the
+repercussions of that error.  In this talk, I present new
+methodologies for detecting and explaining errors in complex
+systems.  My novel contribution is a system-wide monitoring
+architecture, which is composed of introspective, overlapping
+committees of subsystems.  Each subsystem is encapsulated in a
+"reasonableness" monitor, an adaptable framework that supplements
+local decisions with commonsense data and reasonableness rules.  This
+framework is dynamic and introspective: it allows each subsystem to
+defend its decisions in different contexts: to the committees it
+participates in and to itself.  For reconciling system-wide errors, I
+developed a comprehensive architecture that I call "Anomaly Detection
+through Explanations (ADE)."  The ADE architecture contributes an
+explanation synthesizer that produces an argument tree, which in turn
+can be traced and queried to determine the support of a decision, and
+to construct counterfactual explanations.  I have applied this
+methodology to detect incorrect labels in semi-autonomous vehicle
+data, and to reconcile inconsistencies in simulated, anomalous driving
+scenarios.
+
+My work has opened up the new area of explanatory anomaly detection,
+working towards a vision in which complex systems will be articulate
+by design: they will be dynamic; internal explanations will be part of
+the design criteria; system-level explanations will be provided, and
+they can be challenged in an adversarial proceeding.
+** Professional Memberships
+*** AAAS
+ Number: 41699768
+*** AAAI
+*** IEEE

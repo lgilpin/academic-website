@@ -1,0 +1,23 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./home/
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+
+#+TITLE: Upcoming Talks testing
+#+OPTIONS: tasks:nil
+#+HUGO_TAGS: emacs
+#+HUGO_CATEGORIES: menu
+#+HUGO_ACTIVE: false
+
+* 55th Annual Conference on Information Sciences and Systems  
+:EXPORT_DATE: <2021-03-24>--<2021-03-26>
+:EXPORT_DATE: 2021-03-24--2021-03-26
+** TODO Abstract 
+:DEADLINE: <2020-12-14 Mon>
+
+* [[https://attend.ieee.org/fuzzieee-2021/][IEEE Fuzz 2021]]
+date: TBD
+
+* Testing different capability
+2020-01-10 versus [2020-12-05 Sat] versus <2020-12-05 Sat>
