@@ -37,7 +37,7 @@ image:
   focal_point: ""
   preview_only: false
 
-youtube: cXSnkgaIyJ4
+youtube: lWMdE1qoj4c
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

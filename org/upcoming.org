@@ -5,14 +5,14 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 
 #+TITLE: Upcoming Talks testing
-#+OPTIONS: tasks:nil
+#+OPTIONS: tasks:nil p:t
 #+HUGO_TAGS: emacs
 #+HUGO_CATEGORIES: menu
 #+HUGO_ACTIVE: false
 
 * 55th Annual Conference on Information Sciences and Systems  
-:EXPORT_DATE: <2021-03-24>--<2021-03-26>
-:EXPORT_DATE: 2021-03-24--2021-03-26
+EXPORT_DATE: <2021-03-24>--<2021-03-26>
+EXPORT_DATE: 2021-03-24--2021-03-26
 ** TODO Abstract 
 :DEADLINE: <2020-12-14 Mon>
 
@@ -21,3 +21,29 @@ date: TBD
 
 * Testing different capability
 2020-01-10 versus [2020-12-05 Sat] versus <2020-12-05 Sat>
+
+* Applications
+- NYU
+- Brown
+- MIT Sloan
+- UPenn
+- Georgia Tech
+- Cornell
+- Cornell Tech
+- JHU
+- BU
+- University of Washington
+- UC Santa Cruz
+
+** My Maybe Schools 
+- Washington University in St. Louis (maybe)
+- Vanderbuilt (maybe)
+- CMU (maybe)
+- Marylard College Park (maybe)
+- Univ of Utah
+
+Besides UC Santa Cruz, all the applications are on Interfolio or
+AcademicJobs which take a generic letter.  If you let me know when
+you're ready, I can send out the request.  I think the letter would be
+similar to last years, with maybe a paragraph about the thesis and the
+hiring freezes last year. 

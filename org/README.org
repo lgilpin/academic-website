@@ -1,1 +1,8 @@
+#+TITLE: README
+#+DATE: 2020-12-06
+
+* TODO [0/2]
 - [ ] Support for external links
+- [ ] News widget with [[https://discourse.gohugo.io/t/adding-news-section-with-limited-number-of-posts-and-without-extra-pages/15017][limit]].
+- [ ] Move over the papers and everything to org mode.
+- [ ] I started working on [[../themes/my-academic/layouts/partials/lei-news-list.html][lei-news-list.html]].

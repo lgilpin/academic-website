@@ -1,0 +1,35 @@
+#+TITLE: News Draft
+#+AUTHOR: Leilani H. Gilpin
+#+DATE: 2020-11-01
+#+OPTIONS: p:t
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE (d) CANCELLED (c) 
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./home/
+
+#+HUGO_WEIGHT: 2001
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TAGS: emacs
+#+HUGO_CATEGORIES: menu
+
+#+HUGO_DRAFT: false
+
+* Upcoming Talks
+
+* WAITING Notes Idea
+- [2020-12-05 Sat] I have been accepted as a Rising Star in EECS.
+- I started working at Sony AI.
+- My PhD dissertation was submitted and accepted.  You can read it 
+- I passed my PhD Defense 
+* Applications Test
+** NYU
+   CLOSED: [2020-12-06 Sun 22:44]
+** TODO Brown
+** TODO MIT Sloan
+** TODO UPenn
+** TODO Georgia Tech
+** TODO Cornell
+** Cornell Tech
+** JHU
+** BU
+** University of Washington
+** TODO UC Santa Cruz
