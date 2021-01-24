@@ -32,6 +32,7 @@ weight = 10
   #text_color_light = true
   
 +++
+* **January 2021**: I will be on a panel about "Linking Knowledge in the Earth and Space Sciences: Knowledge Graphs/Networks connecting data and individuals" at the [ESIP 2021 Winter Meeeting](https://2021esipwintermeeting.sched.com/event/g48z).
 * **December 2020**: I will be giving a [tech talk](talk/neurips-phd) on my PhD thesis work at NeurIps.  
 * **October 2020**: I have been accepted as a Rising Star in EECS.  
 * **September 2020**: I started working at Sony AI. 

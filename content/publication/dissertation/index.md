@@ -9,6 +9,6 @@ pdf: "static/dissertation"
 featured: false
 publication: "PhD Thesis"
 url_video: https://youtu.be/lWMdE1qoj4c
-url_pdf: http://groups.csail.mit.edu/mac/users/gjs/lgilpin-PhD-EECS-Sept2020.pdf
+url_pdf: https://dspace.mit.edu/handle/1721.1/129250
 ---
 
