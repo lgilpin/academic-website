@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: 
+url_slides: neurips_phD_review_2020.pdf 
 
 url_code:
-url_pdf: 
+url_pdf:  
 url_video: 
 
 # Markdown Slides (optional).
