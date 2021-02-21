@@ -32,6 +32,7 @@ weight = 10
   #text_color_light = true
   
 +++
+* **February 2021**: I will be giving an invited talk on "Anticipatory Thinking: a Testing and Representation Challenge for Self-Driving Cars" at [the 55th Annual Conference on Information Sciences and Systems](https://ciss.jhu.edu).  
 * **January 2021**: I will be on a panel about "Linking Knowledge in the Earth and Space Sciences: Knowledge Graphs/Networks connecting data and individuals" at the [ESIP 2021 Winter Meeeting](https://2021esipwintermeeting.sched.com/event/g48z).
 * **December 2020**: I will be giving a [tech talk](talk/neurips-phd) on my PhD thesis work at NeurIps.  
 * **October 2020**: I have been accepted as a Rising Star in EECS.  
@@ -44,4 +45,6 @@ weight = 10
 * **March 2020**: I will be presenting a poster at the [Women in Data Science (WiDS)](https://www.widscambridge.org/) in Cambridge.
 * **February 2020**: My paper on "Explaining Possible Futures for Robust Autonomous Decision Making" will be published in the [COGSAT '19](https://www.anticipatorythinking.ai/) proceedings. 
 * **January 2020**: My CSAIL Alliances spotlight video [spotlight video](https://cap.csail.mit.edu/engage/spotlights/leilani-gilpin) is available.
-* **November 2019**: I was accepted to the Doctoral Consortium at [ACM FAccT](https://facctconference.org).
+
+
+<!-- * **November 2019**: I was accepted to the Doctoral Consortium at [ACM FAccT](https://facctconference.org).--> 

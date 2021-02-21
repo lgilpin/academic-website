@@ -48,4 +48,4 @@ Note: This is a working list.  It is inspired by my [colleague](http://logical.a
 * Sometimes, I manage to [take photos](https://500px.com/leilanihg).
 * I am captivated by personality traits and analysis.  I did a project on [detecting personality traits using speech signals](publication/gilpin-2018-perception/).  I consistently score as an [INTJ](https://www.16personalities.com/intj-personality), but am quite in the middle in (T)hinking versus (F)eeling.  
 * My [partner](https://people.csail.mit.edu/razvan) does great work in medical imaging, and they are on the job market this year!
-* Currently reading: _Rebooting AI_ by Ernest David and Gary Marcus.
+* Currently reading: _The Book of Why_.  
