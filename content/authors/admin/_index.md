@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist 
+role: Assistant Professor 
 # in Electrical Engineering and Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Sony AI
-- name: MIT CSAIL
+- name: UC Santa Cruz
 #- name: Massachusetts Institute of Technology
 #  url: ""
 
@@ -100,12 +99,14 @@ user_groups:
 - Visitors
 ---
 
-I am a research scientist at Sony AI working on explainability in AI
-agents.  I recently graduated with my PhD in Electrical Engineering
-and Computer Science at MIT in CSAIL, where I continue as a
-collaborating researcher.  My research focuses on the theories and
-methodologies towards monitoring, designing, and augmenting machines
-that can **explain** themselves for diagnosis, accountability, and
+I am an incoming Assistant Professor in Computer Science and
+Engineering at UC Santa Cruz starting October 2021.  Previously, I was
+a research scientist at Sony AI working on explainability in AI
+agents.  I graduated with my PhD in Electrical Engineering and
+Computer Science at MIT in CSAIL, where I continue as a collaborating
+researcher.  My research focuses on the theories and methodologies
+towards monitoring, designing, and augmenting machines that can
+**explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.  During my PhD, I developed "Anomaly
 Detection through Explanations" or ADE, a self-explaining, full system
