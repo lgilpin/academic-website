@@ -73,9 +73,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/leilanigilpin
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/leilanigilpin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UFT_ijYAAAAJ
@@ -104,13 +104,17 @@ Engineering at UC Santa Cruz starting October 2021.  Previously, I was
 a research scientist at Sony AI working on explainability in AI
 agents.  I graduated with my PhD in Electrical Engineering and
 Computer Science at MIT in CSAIL, where I continue as a collaborating
-researcher.  My research focuses on the theories and methodologies
-towards monitoring, designing, and augmenting machines that can
+researcher.  During my PhD, I developed "Anomaly Detection through
+Explanations" or ADE, a self-explaining, full system monitoring
+architecture to detect and explain inconsistencies in autonomous
+vehicles.  This allows machines and other complex mechanisms to be
+able to interpret their actions and learn from their mistakes.
+
+My research focuses on the theories and methodologies towards
+monitoring, designing, and augmenting complex machines that can
 **explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
-intelligent, machines by design.  During my PhD, I developed "Anomaly
-Detection through Explanations" or ADE, a self-explaining, full system
-monitoring architecture to detect and explain inconsistencies in
-autonomous vehicles.  This allows machines and other complex
-mechanisms to be able to interpret their actions and learn from their
-mistakes.
+intelligent, machines by design.
+
+I am currently looking for motivated PhD students; please reach out to
+me on Twitter or by email if the above description interests you!

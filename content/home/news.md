@@ -32,10 +32,16 @@ weight = 10
   #text_color_light = true
   
 +++
+* **September 2021**: Moved to California. 
+* **August 2021**: Our paper on "Explaining Multimodal Errors in Autonomous Vehicle" was accepted to DSAA 2021 in the Special Session on Practical applications of explainable artificial intelligence methods.  
+* **July 2021**: Our [workshop](https://xai4debugging.github.io) on "eXplainable AI approaches for debugging and diagnosis" was accepted to NeurIps 2021.
+* **May 2021**:  My paper with co-lead Gregory Falco, "A Stress Testing Framework for Autonomous System Verification and Validation (V&V)," was accepted to ICAS 2021.  
 * **February 2021**: I will be giving an invited talk on "Anticipatory Thinking: a Testing and Representation Challenge for Self-Driving Cars" at [the 55th Annual Conference on Information Sciences and Systems](https://ciss.jhu.edu).  
 * **January 2021**: I will be on a panel about "Linking Knowledge in the Earth and Space Sciences: Knowledge Graphs/Networks connecting data and individuals" at the [ESIP 2021 Winter Meeeting](https://2021esipwintermeeting.sched.com/event/g48z).
 * **December 2020**: I will be giving a [tech talk](talk/neurips-phd) on my PhD thesis work at NeurIps.  
 * **October 2020**: I have been accepted as a Rising Star in EECS.  
+
+<!--
 * **September 2020**: I started working at Sony AI. 
 * **August 2020**: My PhD dissertation was submitted and accepted. 
 * **June 2020**: I passed my [PhD Defense](publication/dissertation)! 
@@ -47,4 +53,4 @@ weight = 10
 * **January 2020**: My CSAIL Alliances spotlight video [spotlight video](https://cap.csail.mit.edu/engage/spotlights/leilani-gilpin) is available.
 
 
-<!-- * **November 2019**: I was accepted to the Doctoral Consortium at [ACM FAccT](https://facctconference.org).--> 
+* **November 2019**: I was accepted to the Doctoral Consortium at [ACM FAccT](https://facctconference.org).--> 
