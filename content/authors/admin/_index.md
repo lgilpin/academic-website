@@ -99,16 +99,16 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming Assistant Professor in Computer Science and
-Engineering at UC Santa Cruz starting October 2021.  Previously, I was
-a research scientist at Sony AI working on explainability in AI
-agents.  I graduated with my PhD in Electrical Engineering and
-Computer Science at MIT in CSAIL, where I continue as a collaborating
-researcher.  During my PhD, I developed "Anomaly Detection through
-Explanations" or ADE, a self-explaining, full system monitoring
-architecture to detect and explain inconsistencies in autonomous
-vehicles.  This allows machines and other complex mechanisms to be
-able to interpret their actions and learn from their mistakes.
+I am an Assistant Professor in Computer Science and Engineering at UC
+Santa Cruz.  Previously, I was a research scientist at Sony AI working
+on explainability in AI agents.  I graduated with my PhD in Electrical
+Engineering and Computer Science at MIT in CSAIL, where I continue as
+a collaborating researcher.  During my PhD, I developed "Anomaly
+Detection through Explanations" or ADE, a self-explaining, full system
+monitoring architecture to detect and explain inconsistencies in
+autonomous vehicles.  This allows machines and other complex
+mechanisms to be able to interpret their actions and learn from their
+mistakes.
 
 My research focuses on the theories and methodologies towards
 monitoring, designing, and augmenting complex machines that can
