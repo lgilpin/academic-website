@@ -43,7 +43,7 @@ weight = 45
 Note: This is a working list.  It is inspired by my [colleague](http://logical.ai).  Let's pass it along.
 
 ## Other Happenings
-* My father, Brian M. Gilpin, is a retired manager and has [a new book](https://www.goodreads.com/book/show/59067100-dem-haoles) about white privilege in Hawaii.  My mother is a retired recreation therapist who worked over 30 years at Sonoma State Hospital, and my brother is an aspiring writer.
+* My father, Brian M. Gilpin, is a retired manager and has [a new book](https://www.goodreads.com/book/show/59067100-dem-haoles) about white privilege in Hawaii.  My mother is a retired recreation therapist who worked over 30 years at Sonoma State Hospital, and my brother is an aspiring writer. 
 * In fall 2018, I learned [How to Make Almost Anything](http://fab.cba.mit.edu/classes/863.18/EECS/people/leilani/index.html). 
 * When I'm not working, I enjoy [rowing](http://rowingclub.mit.edu), swimming, and hiking.  I'm also a [former](https://thetech.com/2017/04/13/water-polo-v137-i9) water polo player.
 * Sometimes, I manage to [take photos](https://500px.com/leilanihg).
