@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2021 IEEE International Conference on Autonomous Systems (ICAS)*"
+url_pdf: "https://ieeexplore.ieee.org/document/9551154"
 ---
 
