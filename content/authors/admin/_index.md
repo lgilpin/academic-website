@@ -116,6 +116,6 @@ monitoring, designing, and augmenting complex machines that can
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.
 
-I am currently looking for motivated PhD students; please see [this post](talk/recruiting/) and
+I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
 reach out to me on Twitter or by email if the above description
 interests you!

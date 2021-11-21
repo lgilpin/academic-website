@@ -32,7 +32,7 @@ weight = 10
   #text_color_light = true
   
 +++
-* **November 2021**: I'm recruiting for PhD students!  See [this post](talk/recruiting/) for more information.  And our [new paper](publication/gilpin-2021-multimodal/) on "Explaining Multimodal Errors in Autonomous Vehicles" was published in the proceedings of [DSAA 2021](https://dsaa2021.dcc.fc.up.pt). 
+* **November 2021**: I'm recruiting for PhD students!  See [this post](post/recruiting/) for more information.  And our [new paper](publication/gilpin-2021-multimodal/) on "Explaining Multimodal Errors in Autonomous Vehicles" was published in the proceedings of [DSAA 2021](https://dsaa2021.dcc.fc.up.pt). 
 * **October 2021**: I started my job at UC Santa Cruz.
 * **September 2021**: Our AAAI Fall Symposium on [Anticipatory Thinking](https://www.anticipatorythinking.ai) is happening remotely.  I also moved to California. 
 * **August 2021**: Our paper on "Explaining Multimodal Errors in Autonomous Vehicle" was accepted to DSAA 2021 in the Special Session on Practical applications of explainable artificial intelligence methods.  

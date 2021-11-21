@@ -1,0 +1,54 @@
+I am seeking creative, hard-working, prospective PhD students (and
+master's students and undergraduates) to join the XAI group at UCSC.
+
+Come work with me on making complex mechanisms more understandable for
+debugging and diagnosis, accountability, and liability.  We examine
+applications in autonomous driving, deep learning, and other
+mission-critical or safety-critical applications.  Additionally, my work
+also examines the role of explanations for trustworthy ML,
+interpretable HCI, AI and ethics, and AI safety and fairness.
+
+Please see the information below.  
+
+
+If this interests you, please review the UC Santa Cruz CSE (PhD
+admissions requirements)[https://grad.soe.ucsc.edu/cse] and ensure
+that you meet these requirements before contacing Prof. Gilpin. (Note:
+the GRE is no longer required!)
+
+
+* UCSC undergrad
+UCSC undergraduates are welcome to contact Prof. Gilpin about getting
+involved in research. Students interested in joining the group should
+have basic programming experience, and preferably, have taken CSE 140.  
+
+* UCSC Master's students Current UCSC Master's students interested in
+gaining research experience or looking for a supervisor for a research
+project may contact Prof. Gilpin.
+
+In your introductory email, please include a CV/resume, and indicate a
+few topics or application domains of interest.  Prof. Gilpin has
+listed a few projects on the UCSC master's board.
+
+* Prospective PhD students
+
+
+* Contact
+Inquiries should be directed to Prof. Leilani Gilpin (email:
+lgilpin@ucsc.edu).  Please use the following email subject line: "[–]
+interested in joining XAI Group! *~*~*~ “, where [–] should be
+replaced with: UCSC undergrad, UCSC master's student, or prospective
+Ph.D. student, as appropriate. This will indicate to me that you have
+read this full page and will prevent your email from ending up my in
+spam folder (which can be an issue for some prospective student emails
+sent from non-.edu domains).  Emails from individuals seeking a
+position that do not contain the requested information (outlined
+above) are unlikely to receive a response.
+
+# Diversity statement 
+Explanatory AI is an interdisciplinary field which benefits from the
+perspectives and contributions of those from diverse voices (diversity
+broadly defined).  We encourage anyone who shares our interests,
+including members of historically underrepresented and marginalized
+groups, women, LGBTQ+ folks, and people with disabilities (with
+diversity broadly defined), to consider joining us at UC Santa Cruz!
