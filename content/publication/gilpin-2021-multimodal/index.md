@@ -10,5 +10,6 @@ featured: true
 publication: "DSAA 2021"
 url_video: https://youtu.be/6U5tYXjw90c
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9564178
+url_slides: "files/talks/dsaa_2021.pdf"
 ---
 
