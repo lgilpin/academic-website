@@ -99,16 +99,19 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor in Computer Science and Engineering at UC
-Santa Cruz.  Previously, I was a research scientist at Sony AI working
-on explainability in AI agents.  I graduated with my PhD in Electrical
-Engineering and Computer Science at MIT in CSAIL, where I continue as
-a collaborating researcher.  During my PhD, I developed "Anomaly
-Detection through Explanations" or ADE, a self-explaining, full system
-monitoring architecture to detect and explain inconsistencies in
-autonomous vehicles.  This allows machines and other complex
-mechanisms to be able to interpret their actions and learn from their
-mistakes.
+I am an Assistant Professor in [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering)
+and an affiliate of the [Science & Justic Research Center](https://scijust.ucsc.edu/about-sjrc/)
+at UC Santa Cruz.  
+
+Previously, I was a research scientist at Sony AI
+working on explainability in AI agents.  I graduated with my PhD in
+Electrical Engineering and Computer Science at MIT in CSAIL, where I
+continue as a collaborating researcher.  During my PhD, I developed
+"Anomaly Detection through Explanations" or ADE, a self-explaining,
+full system monitoring architecture to detect and explain
+inconsistencies in autonomous vehicles.  This allows machines and
+other complex mechanisms to be able to interpret their actions and
+learn from their mistakes.
 
 My research focuses on the theories and methodologies towards
 monitoring, designing, and augmenting complex machines that can
@@ -116,6 +119,6 @@ monitoring, designing, and augmenting complex machines that can
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.
 
-I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
+<!-- I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
 reach out to me on Twitter or by email if the above description
-interests you!
+interests you!-->
