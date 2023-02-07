@@ -32,8 +32,9 @@ weight = 10
   #text_color_light = true
   
 +++
+* **December 2022**: I have been accepted to the new faculty highlights at AAAI 2023!
 * **October 2022**: Our tutorial on Trustworthy and Responsible AI: Fairness, Interpretability, Transparency and Their Interactions (joint with Yilun Zhou, Jieyu Zhao,
-Harsha Nori, and Besmira Nushi) has been accepted to AAAI 2023.
+Harsha Nori, and Besmira Nushi) has been accepted to AAAI 2023.  [Tutorial website](https://yilunzhou.github.io/aaai2023tutorial/).
 * **October 2022**: [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) and I lead a [tutorial](talk/us2ts-2022) on Knowledge-based commonsense reasoning and explainability at US2TS.  
 * **September 2022**: I gave talks on "Accountability Layers" at [University of Birmingham](talk/birmingham-2022) and [University College London](talk/ucl-2022). 
 * **August 2022**: [Jamie Macbeth](https://jamiemacbeth.com/) and I are co-chairs for [Advances in Cognitive Systems](http://cogsys.org/conference/2022/) at GMU IDIA.
