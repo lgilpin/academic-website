@@ -1,0 +1,16 @@
+* Running
+* In progress Debugging 
+** TODO News Section
+#+BEGIN_SRC html
+{{/* Initialise Org List */}}
+{{ $org_stuff := "" }}
+
+<!-- {{/* Adding News Items */}}
+{{ display $query }}
+{{ $query = $query | union $org_stuff }} --> 
+#+END_SRC
+
+But this caused some errors.  
+
+* Local running
+=hugo server= (I think).

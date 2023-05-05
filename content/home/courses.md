@@ -69,7 +69,10 @@ subtitle = ""
  css_class = ""
 +++
 ## Lead Instructor
-- UCSC - CSE 140: Artificial Intelligence (Winter 2022, Spring 2022)
+- UCSC 
+  - CSE 140: Artificial Intelligence (Winter 2022, Spring 2022, Spring 2023)
+  - CSE 240: Artificial Intelligence (Winter 2023)
+  - CSE 246: Responsible Data Science (Fall 2022)
 - MIT - [Artificial Intelligence and Global Risks](http://people.csail.mit.edu/lgilpin/ai-risk-course/) (IAP 2018)
 - Stanford - SMASH Institute: Calculus (Summer 2015)
 
