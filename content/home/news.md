@@ -32,7 +32,8 @@ weight = 10
   #text_color_light = true
   
 +++
-* **May 2023**: I traveled to Washington DC for the DoT UTC Grant Kickoff Meeting for Transportation Cybersecurity and Resiliency (TraCR).
+* **June 2023**: I gave the [Slugs and Steins Alumni Lecture](talk/slugs-steins-2023/)
+* **May 2023**: We were awarded a California Education Learning Lab Faculty Development grant on "Building Data Science Communities for Improving Student Success." 
 * **April 2023**: I organized the [PhD open house](https://sites.google.com/ucsc.edu/cse-open-house-23) for UCSC CSE.
 * **March 2023**: I gave a [Data Science Matters Seminar](https://events.brown.edu/dsi/event/252843-data-matters-explaining-and-generating-errors-for) at Brown University, and a [Machine Learning Fairness Webinar](talk/fair-illinois-23/) at Illinois Tech.
 * **February 2023**: Our DoT national center on cybersecurity is awarded (Clemson University as the lead).  [Press Release](https://news.clemson.edu/clemson-university-joins-nations-frontline-defense-against-cyberattack-on-the-transportation-system/).
