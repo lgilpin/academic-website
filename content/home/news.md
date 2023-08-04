@@ -32,6 +32,7 @@ weight = 10
   #text_color_light = true
   
 +++
+* **July 2023**: Our special issue on Anticipatory Thinking (with Adam Amos-Binks and Dustin Dannenhauer) in AI Magainze is out!  Learn more in our introductory [article](publication/ai-mag-2023).
 * **June 2023**: I gave the [Slugs and Steins Alumni Lecture](talk/slugs-steins-2023/)
 * **May 2023**: We were awarded a California Education Learning Lab Faculty Development grant on "Building Data Science Communities for Improving Student Success." 
 * **April 2023**: I organized the [PhD open house](https://sites.google.com/ucsc.edu/cse-open-house-23) for UCSC CSE.
