@@ -32,6 +32,9 @@ weight = 10
   #text_color_light = true
   
 +++
+* **October 2023**: Our paper on "Towards a fuller understanding of neurons with Clustered Compositional Explanations" was accepted as a poster to NeurIps! 
+* **September 2023**: Our workshop on eXplainable AI approaches for deep reinforcement learning [XAI4DRL](https://xai4drl.github.io/) was accepted to AAAI!  (Co-organized with Roberto Capobiano, Oliver Chang, Biagio La Rosa, Michela Proietti and Alessio Ragno.)
+* **August 2023**:  I'll be speaking at the [XAI in Action workshop](https://xai-in-action.github.io/) at NeurIps. 
 * **July 2023**: Our special issue on Anticipatory Thinking (with Adam Amos-Binks and Dustin Dannenhauer) in AI Magainze is out!  Learn more in our introductory [article](publication/ai-mag-2023).
 * **June 2023**: I gave the [Slugs and Steins Alumni Lecture](talk/slugs-steins-2023/)
 * **May 2023**: We were awarded a California Education Learning Lab Faculty Development grant on "Building Data Science Communities for Improving Student Success." 
@@ -39,12 +42,12 @@ weight = 10
 * **March 2023**: I gave a [Data Science Matters Seminar](https://events.brown.edu/dsi/event/252843-data-matters-explaining-and-generating-errors-for) at Brown University, and a [Machine Learning Fairness Webinar](talk/fair-illinois-23/) at Illinois Tech.
 * **February 2023**: Our DoT national center on cybersecurity is awarded (Clemson University as the lead).  [Press Release](https://news.clemson.edu/clemson-university-joins-nations-frontline-defense-against-cyberattack-on-the-transportation-system/).
 * **January 2023**: I participated in the Northwestern [CASMI workshop](https://casmi.northwestern.edu/news/articles/2023/defining-safety-in-artificial-intelligence.html) on "Toward a Safety Science of AI."
+
+<!--
 * **December 2022**: I have been accepted to the new faculty highlights at AAAI 2023!
 * **October 2022**: Our tutorial on Trustworthy and Responsible AI: Fairness, Interpretability, Transparency and Their Interactions (joint with Yilun Zhou, Jieyu Zhao,
 Harsha Nori, and Besmira Nushi) has been accepted to AAAI 2023.  [Tutorial website](https://yilunzhou.github.io/aaai2023tutorial/).
 * **October 2022**: [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) and I lead a [tutorial](talk/us2ts-2022) on Knowledge-based commonsense reasoning and explainability at US2TS.
-
-<!--
 * **September 2022**: I gave talks on "Accountability Layers" at [University of Birmingham](talk/birmingham-2022) and [University College London](talk/ucl-2022). 
 * **August 2022**: [Jamie Macbeth](https://jamiemacbeth.com/) and I are co-chairs for [Advances in Cognitive Systems](http://cogsys.org/conference/2022/) at GMU IDIA.
 * **April 2022**: I traveled to [Northwestern University](https://casmi.northwestern.edu/) for the [CASMI launch](https://www.mccormick.northwestern.edu/news/articles/2022/04/casmi-celebrates-launch-with-ribbon-cutting-and-panel-discussion/) and  [Governance Advisory Committee](https://casmi.northwestern.edu/people/) meeting.
