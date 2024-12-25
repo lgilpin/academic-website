@@ -25,12 +25,12 @@ bio: My research interests include explainable artificial intellgience,anomaly d
 
 interests:
 - Explainable AI (XAI)
+- NeuroSymbolic AI
 - Anomaly Detection
 - Commonsense Reasoning
 - Anticipatory Thinking for Autonomy
 - Semantic Representations of Language
 # of Computational Linguistics
-- Story-enabled intelligence
 #  link: http://logical.ai/story/
 #[Story-enabled intelligence](http://logical.ai/story/)
 - AI & Ethics
@@ -98,7 +98,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am an Assistant Professor in [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering)
 and an affiliate of the [Science & Justic Research Center](https://scijust.ucsc.edu/about-sjrc/) at [UC Santa Cruz](https://www.ucsc.edu/).  I am part of the [AI group @ UCSC](https://ucsc-ai.github.io/) and I lead the [AI Explainability and Accountability (AIEA)](https://aiea-lab.github.io/) Lab.    
 
