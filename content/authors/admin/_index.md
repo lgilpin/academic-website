@@ -99,7 +99,7 @@ user_groups:
 - Visitors
 ---
 I am an Assistant Professor in [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering)
-and an affiliate of the [Science & Justic Research Center](https://scijust.ucsc.edu/about-sjrc/) at [UC Santa Cruz](https://www.ucsc.edu/).  I am part of the [AI group @ UCSC](https://ucsc-ai.github.io/) and I lead the [AI Explainability and Accountability (AIEA)](https://aiea-lab.github.io/) Lab.    
+and an affiliate of the [Science & Justice Research Center](https://scijust.ucsc.edu/about-sjrc/) at [UC Santa Cruz](https://www.ucsc.edu/).  I am part of the [AI group @ UCSC](https://ucsc-ai.github.io/) and I lead the [AI Explainability and Accountability (AIEA)](https://aiea-lab.github.io/) Lab.    
 
 Previously, I was a research scientist at Sony AI
 working on explainability in AI agents.  I graduated with my PhD in

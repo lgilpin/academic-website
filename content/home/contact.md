@@ -17,7 +17,6 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-**Update**: I am on maternity leave until April 2025, and my responses to email may be delayed until then.
 
 email: lgilpin @ ucsc.edu
 
