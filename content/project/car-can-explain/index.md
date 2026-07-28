@@ -1,6 +1,6 @@
 +++
 title = "The Car Can Explain!"
-date = 2019-03-31T10:50:48-04:00
+date = "2019-03-31"
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "The methdologies and underlying technologies to allow self-driving cars and other AI-driven systems to explain behaviors and failures."
+summary = "The methodologies and underlying technologies that allow self-driving cars and other AI-driven systems to explain behaviors and failures."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -42,4 +42,8 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+org_project_sync = true
 +++
+
+The methodologies and underlying technologies that allow self-driving cars and
+other AI-driven systems to explain behaviors and failures.

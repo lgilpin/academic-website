@@ -1,6 +1,6 @@
 +++
 title = "Monitoring Decision Systems"
-date = 2019-03-31T10:50:48-04:00
+date = "2019-03-31"
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "An adaptable framework to supplement decision making systems with commonsense knowledge and reasonableness rules."
+summary = "An adaptable framework to supplement decision-making systems with commonsense knowledge and reasonableness rules."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -42,4 +42,8 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+org_project_sync = true
 +++
+
+An adaptable framework to supplement decision-making systems with commonsense
+knowledge and reasonableness rules.

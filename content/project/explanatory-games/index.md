@@ -1,6 +1,6 @@
 +++
 title = "Explanatory Games"
-date = 2019-03-31T10:50:48-04:00
+date = "2019-03-31"
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -42,4 +42,8 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+org_project_sync = true
 +++
+
+Using internal symbolic, explanatory representations to robustly monitor
+agents.

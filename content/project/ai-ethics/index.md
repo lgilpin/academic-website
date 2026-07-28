@@ -1,6 +1,6 @@
 +++
 title = "AI and ethics"
-date = 2019-03-31T10:50:48-04:00
+date = "2019-03-31"
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "The AI and ethics reading group is a student-lead, campus-wide initiative."
+summary = "The AI and ethics reading group is a student-led, campus-wide initiative."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -42,4 +42,7 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+org_project_sync = true
 +++
+
+The AI and ethics reading group is a student-led, campus-wide initiative.

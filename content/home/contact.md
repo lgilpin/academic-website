@@ -17,7 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-
-email: lgilpin @ ucsc.edu
-
-Appointments available [here](https://calendar.app.google/k9Z5kyiajZnZucYGA).
