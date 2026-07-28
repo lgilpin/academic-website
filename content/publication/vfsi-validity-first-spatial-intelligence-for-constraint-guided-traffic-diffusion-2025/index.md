@@ -8,8 +8,6 @@ authors:
 publication_types: ["2"]
 publication: "NeurIPS 2025 Workshop on Space in Vision, Language, and Embodied AI; arXiv:2509.23971"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

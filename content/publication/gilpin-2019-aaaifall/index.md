@@ -35,14 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://ceur-ws.org/Vol-2558/
-url_code: 
-url_dataset:
-url_poster:
-url_project:
-url_slides:
 url_source:
-url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,6 +58,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+url_pdf: http://ceur-ws.org/Vol-2558/
 ---
 
 

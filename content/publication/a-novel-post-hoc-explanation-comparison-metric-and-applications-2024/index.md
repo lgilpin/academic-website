@@ -8,8 +8,6 @@ authors:
 publication_types: ["0"]
 publication: "ICPRAI 2024"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

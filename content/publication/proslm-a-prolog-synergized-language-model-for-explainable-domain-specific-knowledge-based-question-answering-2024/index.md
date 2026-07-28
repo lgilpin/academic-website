@@ -11,8 +11,6 @@ authors:
 publication_types: ["1"]
 publication: "Neurosymbolic AI (in press)"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

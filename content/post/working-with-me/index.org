@@ -1,0 +1,46 @@
+#+TITLE: Working With Me
+#+DATE: 2026-07-28
+#+DRAFT: false
+#+DESCRIPTION: How I approach communication, collaboration, feedback, and mentoring.
+#+OPTIONS: toc:nil
+
+My mentoring philosophy is to create a healthy culture of scientific
+inquiry in which students develop their own research narratives and
+all group members receive regular feedback.  The best way to work with
+me is to consider joining the [[https://aiea-lab.github.io/join/][AIEA lab]].  The link has detailed
+information on the capacity of the lab and what it is like working
+with our research 'ohana.
+
+The reminder of  this document is about what it is like working with
+*me* as an advisor.  I have a publicly accessible [[https://docs.google.com/document/d/1tVbPMSP9ZpXZhgrh5KqytrKBisNkOL7djxjbJtNmiX8/edit?usp=sharing][Advising statement]]
+that describes this in detail.  I will highlight some of those themes
+here.
+
+* Who I'm Currently Advising
+I currently advise 1 postdoc, 11 PhD students, and over 30 MS students
+and 60 undergraduates.  Yes, those numbers are correct, and that means
+that many of my students need to be *quite independent* and also
+proactive.  Here are a few qualities that I've found work well with my
+advising style:
+- Direct, kind, and empathetic communication.
+- Transparency around urgency, deadlines, or other important
+  decisions.
+- Clear documentation of research, including meeting agendas and
+  follow up notes.
+- Feedback as a constant practice in both directions.
+- Thinking critically and mindfully about problems both as an
+  individual contributor and within a group.
+- Taking vacation, using sick time, and asking for accommodations.
+
+  
+
+* Emailing me
+I get a lot of emails and many of them are increasingly AI generated.
+Many of the questions in those emails are likely answered here or on
+the [[https://aiea-lab.github.io/join/][AIEA lab]] lab page.  Before emailing me, please take a look at the
+documents linked on this page; including
+1.  Read through my research values....
+
+** My Research Values
+
+Include ideas from https://www.benjixie.com/post/students/

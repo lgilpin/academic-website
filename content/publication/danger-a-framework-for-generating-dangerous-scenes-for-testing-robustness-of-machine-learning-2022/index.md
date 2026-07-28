@@ -8,8 +8,6 @@ authors:
 publication_types: ["2"]
 publication: "NeurIPS Workshop on Trustworthy Embodied AI (2022)"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

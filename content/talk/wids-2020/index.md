@@ -46,11 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
 
-url_code:
-url_pdf:
-url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

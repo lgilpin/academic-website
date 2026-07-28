@@ -46,11 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: neurips_phD_review_2020.pdf 
 
-url_code:
-url_pdf:  
-url_video: 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -65,4 +61,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_slides: neurips_phD_review_2020.pdf
 ---

@@ -8,9 +8,8 @@ authors:
 publication_types: ["1"]
 publication: "CoLLas"
 abstract: ""
-url_pdf: ""
-url_project: "https://dl.acm.org/doi/abs/10.65109/PFBJ1092"
 featured: false
+url_project: "https://dl.acm.org/doi/abs/10.65109/PFBJ1092"
 ---
 
 <!-- Generated from research.org and bibliography/publications.bib. -->

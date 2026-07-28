@@ -11,9 +11,8 @@ authors:
 publication_types: ["2"]
 publication: "Advances in Cognitive Systems (2025)"
 abstract: ""
-url_pdf: ""
-url_project: "https://arxiv.org/abs/2510.09970"
 featured: false
+url_project: "https://arxiv.org/abs/2510.09970"
 ---
 
 <!-- Generated from research.org and bibliography/publications.bib. -->

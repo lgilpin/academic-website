@@ -9,8 +9,6 @@ authors:
 publication_types: ["1"]
 publication: "AAAI Spring Symposium on Designing AI for Open Worlds (2022)"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

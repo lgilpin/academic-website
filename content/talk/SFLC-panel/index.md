@@ -23,10 +23,14 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-02-22T07:48:37-05:00
 
-authors: [Andrew Sinclair, Jeremiah Foster, Leilani H. Gilpin, Daniel
-Patnaik, moderated by Eben Moglen, and Mishi Choudhary] 
-tags: [panel, autonomous driving]
-
+authors:
+  - Andrew Sinclair
+  - Jeremiah Foster
+  - Leilani H. Gilpin
+  - Daniel Patnaik
+  - Eben Moglen
+  - Mishi Choudhary
+tags: ["panel", "autonomous driving", "video"]
 # Is this a featured talk? (true/false)
 featured: true
 
@@ -38,7 +42,7 @@ image:
   focal_point: ""
   preview_only: false
 
-youtube: Q9aTI7osWQs
+youtube: "Q9aTI7osWQs"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -49,11 +53,7 @@ youtube: Q9aTI7osWQs
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
 
-url_code:
-url_pdf: https://softwarefreedom.org/events/2018/annual-conference/transcripts/automotive_foss.html
-url_video: https://downloads.softwarefreedom.org/2018/annual-conference/3-automotive-hd.webm
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -68,4 +68,6 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_pdf: https://softwarefreedom.org/events/2018/annual-conference/transcripts/automotive_foss.html
+url_video: "https://youtu.be/Q9aTI7osWQs"
 ---

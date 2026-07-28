@@ -8,8 +8,6 @@ authors:
 publication_types: ["2"]
 publication: "Advances in Cognitive Systems (2025)"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

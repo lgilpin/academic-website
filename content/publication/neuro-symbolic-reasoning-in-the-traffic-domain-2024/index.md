@@ -8,8 +8,6 @@ authors:
 publication_types: ["2"]
 publication: "Neurosymbolic Artificial Intelligence"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

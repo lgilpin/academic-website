@@ -11,9 +11,8 @@ authors:
 publication_types: ["3"]
 publication: "BayLearn, arXiv:2409.10532"
 abstract: ""
-url_pdf: ""
-url_project: "https://arxiv.org/abs/2409.10532"
 featured: false
+url_project: "https://arxiv.org/abs/2409.10532"
 ---
 
 <!-- Generated from research.org and bibliography/publications.bib. -->

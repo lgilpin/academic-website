@@ -8,8 +8,6 @@ authors:
 publication_types: ["2"]
 publication: "ICML"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

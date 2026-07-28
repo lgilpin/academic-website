@@ -117,6 +117,9 @@ monitoring, designing, and augmenting complex machines that can
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.
 
+Read more about my approach to communication, collaboration, and mentoring on
+the [Working With Me](post/working-with-me/) page.
+
 <!-- I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
 reach out to me on Twitter or by email if the above description
 interests you!-->

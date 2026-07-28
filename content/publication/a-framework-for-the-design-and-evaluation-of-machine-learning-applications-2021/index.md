@@ -10,9 +10,8 @@ authors:
 publication_types: ["4"]
 publication: "Northwestern University Machine Learning Impact Initiative (Technical Report)"
 abstract: ""
-url_pdf: "https://casmi.northwestern.edu/documents/evaluation-framework.pdf"
-url_project: ""
 featured: false
+url_pdf: "https://casmi.northwestern.edu/documents/evaluation-framework.pdf"
 ---
 
 <!-- Generated from research.org and bibliography/publications.bib. -->

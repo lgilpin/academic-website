@@ -24,8 +24,7 @@ all_day: true
 publishDate: 2020-02-22T07:48:37-05:00
 
 authors: [Leilani H. Gilpin]
-tags: []
-
+tags: ["video"]
 # Is this a featured talk? (true/false)
 featured: true
 
@@ -37,7 +36,7 @@ image:
   focal_point: ""
   preview_only: false
 
-youtube: 8zJYBIVO1p8
+youtube: "8zJYBIVO1p8"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -48,11 +47,7 @@ youtube: 8zJYBIVO1p8
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
 
-url_code:
-url_pdf: https://softwarefreedom.org/events/2018/automotive/transcripts/4a-gilpin/
-url_video: https://downloads.softwarefreedom.org/2018/automotive/4a-gilpin-hd.webm
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -67,4 +62,6 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+url_pdf: https://softwarefreedom.org/events/2018/automotive/transcripts/4a-gilpin/
+url_video: "https://youtu.be/8zJYBIVO1p8"
 ---

@@ -70,9 +70,15 @@ subtitle = ""
 +++
 ## Lead Instructor
 - UCSC 
-  - CSE 140: Artificial Intelligence (Winter 2022, Spring 2022, Spring 2023)
-  - CSE 240: Artificial Intelligence (Winter 2023)
+  <!-- ORG_UCSC_TEACHING_BEGIN -->
+  - CMPM 118: Collaborative Research Experience in Engineering (Fall 2025, Winter 2026, Spring 2026)
+  - CMPM 118S (Summer 2026)
+  - CSE 140: Artificial Intelligence (Winter 2022, Spring 2022, Spring 2023, Fall 2023)
+  - CSE 198 (Summer 2026)
+  - CSE 240: Artificial Intelligence (Winter 2023, Winter 2024, Fall 2024, Winter 2026)
   - CSE 246: Responsible Data Science (Fall 2022)
+  - CSE 290C: Advanced Topics in ML (Spring 2024)
+  <!-- ORG_UCSC_TEACHING_END -->
 - MIT - [Artificial Intelligence and Global Risks](http://people.csail.mit.edu/lgilpin/ai-risk-course/) (IAP 2018)
 - Stanford - SMASH Institute: Calculus (Summer 2015)
 

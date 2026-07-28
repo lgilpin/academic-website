@@ -10,9 +10,8 @@ authors:
 publication_types: ["2"]
 publication: "COLM; arXiv preprint arXiv:2604.14641"
 abstract: ""
-url_pdf: ""
-url_project: "https://scholar.google.com/citations?hl=en&user=UFT_ijYAAAAJ&view_op=list_works&sortby=pubdate"
 featured: false
+url_project: "https://scholar.google.com/citations?hl=en&user=UFT_ijYAAAAJ&view_op=list_works&sortby=pubdate"
 ---
 
 <!-- Generated from research.org and bibliography/publications.bib. -->

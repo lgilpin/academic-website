@@ -9,8 +9,6 @@ authors:
 publication_types: ["2"]
 publication: "VehicleSec (2023)"
 abstract: ""
-url_pdf: ""
-url_project: ""
 featured: false
 ---
 

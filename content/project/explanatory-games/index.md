@@ -19,7 +19,6 @@ summary = "Using internal symbolic, explanatory representations to robustly moni
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.csail.mit.edu/research/car-can-explain"
 
 # Links (optional).
 url_pdf = ""
@@ -43,6 +42,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 org_project_sync = true
+external_link = "https://www.csail.mit.edu/research/car-can-explain"
 +++
 
 Using internal symbolic, explanatory representations to robustly monitor

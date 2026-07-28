@@ -19,7 +19,6 @@ summary = "The AI and ethics reading group is a student-led, campus-wide initiat
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://mitaiethics.github.io/"
 
 # Links (optional).
 url_pdf = ""
@@ -43,6 +42,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 org_project_sync = true
+external_link = "https://mitaiethics.github.io/"
 +++
 
 The AI and ethics reading group is a student-led, campus-wide initiative.
