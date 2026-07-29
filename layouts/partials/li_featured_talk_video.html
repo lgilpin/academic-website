@@ -1,0 +1,42 @@
+{{ $item := . }}
+{{ $youtubeID := $item.Params.youtube | default "" }}
+{{ $videoURL := $item.Params.url_video | default "" }}
+
+<div class="card-simple featured-talk-video-card">
+  {{ if $youtubeID }}
+  <div class="featured-talk-video">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ $youtubeID }}"
+      title="{{ $item.Title }} video"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  {{ else if $videoURL }}
+  <div class="featured-talk-video">
+    <video controls preload="metadata" aria-label="{{ $item.Title }} video">
+      <source src="{{ $videoURL }}">
+      <a href="{{ $videoURL }}">Watch the video</a>
+    </video>
+  </div>
+  {{ end }}
+
+  <div class="card-body">
+    <h3 class="article-title mb-1 mt-0">
+      <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+    </h3>
+    <div class="article-metadata">
+      <span>{{ $item.Date.Format site.Params.date_format }}</span>
+      {{ with $item.Params.location }}
+      <span class="middot-divider"></span>
+      <span>{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ with $item.Params.event }}
+    <div class="article-style"><p>{{ . }}</p></div>
+    {{ end }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+  </div>
+</div>

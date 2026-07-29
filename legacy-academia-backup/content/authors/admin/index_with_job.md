@@ -10,14 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor 
+role: PhD Candidate 
 # in Electrical Engineering and Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: UC Santa Cruz
-#- name: Massachusetts Institute of Technology
-#  url: ""
+- name: Massachusetts Institute of Technology
+  url: ""
 
 # Short bio (displayed in user profile at end of posts) 
 bio: My research interests include explainable artificial intellgience,anomaly detection, and system debugging.
@@ -25,23 +24,21 @@ bio: My research interests include explainable artificial intellgience,anomaly d
 
 interests:
 - Explainable AI (XAI)
-- NeuroSymbolic AI
 - Anomaly Detection
 - Commonsense Reasoning
 - Anticipatory Thinking for Autonomy
 - Semantic Representations of Language
 # of Computational Linguistics
+- Story-enabled intelligence
 #  link: http://logical.ai/story/
 #[Story-enabled intelligence](http://logical.ai/story/)
 - AI & Ethics
 
-display_education: true
-
 education:
   courses:
-  - course: PhD in Electrical Engineering and Computer Science
+  - course: PhD in Electrial Engineering and Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2020 
+    year: 2020 (Expected)
   - course: M.S. in Computational and Mathematical Engineering
     institution: Stanford University
     year: 2013
@@ -75,15 +72,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/leilanigilpin
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/leilanigilpin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UFT_ijYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lgilpin
+  link: https://github.com/leilanihg
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -100,28 +97,19 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an Assistant Professor in [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering)
-and an affiliate of the [Science & Justice Research Center](https://scijust.ucsc.edu/about-sjrc/) at [UC Santa Cruz](https://www.ucsc.edu/).  I am part of the [AI group @ UCSC](https://ucsc-ai.github.io/) and I lead the [AI Explainability and Accountability (AIEA)](https://aiea-lab.github.io/) Lab.    
 
-Previously, I was a research scientist at Sony AI
-working on explainability in AI agents.  I graduated with my PhD in
-Electrical Engineering and Computer Science at MIT in CSAIL, where I
-continue as a collaborating researcher.  During my PhD, I developed
-"Anomaly Detection through Explanations" or ADE, a self-explaining,
-full system monitoring architecture to detect and explain
-inconsistencies in autonomous vehicles.  This allows machines and
-other complex mechanisms to be able to interpret their actions and
-learn from their mistakes.
-
-My research focuses on the theories and methodologies towards
-monitoring, designing, and augmenting complex machines that can
+I am a PhD candidate in Electrical Engineering and Computer Science at
+MIT in CSAIL.  My research focuses on the theories and methodologies
+towards monitoring, designing, and augmenting machines that can
 **explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
-intelligent, machines by design.
+intelligent, machines by design.  During my PhD, I have developed
+local monitoring frameworks to explain opaque mechanims, towards a
+full-system that uses explanations for more robust decision making.
+This allows machines and other complex mechanisms to be able to
+interpret their actions and learn from their mistakes.
 
-Read more about my approach to communication, collaboration, and mentoring on
-the [Working With Me](post/working-with-me/) page.
-
-<!-- I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
-reach out to me on Twitter or by email if the above description
-interests you!-->
+**I am on the academic job market this year.** My materials are
+available: [research statement](files/research.pdf), [teaching
+statement](files/teaching.pdf),
+[diversity statement](files/diversity.pdf), [curriculum vitae](files/cv.pdf)

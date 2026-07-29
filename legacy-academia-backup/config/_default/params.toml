@@ -113,10 +113,7 @@ menu_align_right = true
 reading_time = true
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
-comment_count = false
-
-# Disable comment embeds on all content types.
-disable_comments = true
+comment_count = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false

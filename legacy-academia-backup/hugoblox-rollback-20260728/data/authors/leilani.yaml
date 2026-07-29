@@ -1,0 +1,47 @@
+schema: hugoblox/author/v1
+slug: leilani
+is_owner: true
+name:
+  display: Leilani H. Gilpin
+  given: Leilani
+  family: Gilpin
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+role: Assistant Professor
+bio: |
+  I am an Assistant Professor in Computer Science and Engineering at UC Santa
+  Cruz and lead the AI Explainability and Accountability (AIEA) Lab. My
+  research develops methods for intelligent machines to explain themselves for
+  diagnosis, accountability, and liability.
+affiliations:
+  - name: UC Santa Cruz
+    url: https://www.ucsc.edu/
+links:
+  - icon: at-symbol
+    url: mailto:lgilpin@ucsc.edu
+    label: Email
+  - icon: brands/x
+    url: https://twitter.com/leilanigilpin
+  - icon: brands/github
+    url: https://github.com/lgilpin
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=UFT_ijYAAAAJ
+interests:
+  - Explainable AI (XAI)
+  - NeuroSymbolic AI
+  - Anomaly Detection
+  - Commonsense Reasoning
+  - Anticipatory Thinking for Autonomy
+  - Semantic Representations of Language
+  - AI & Ethics
+education:
+  - degree: PhD in Electrical Engineering and Computer Science
+    institution: Massachusetts Institute of Technology
+    end: 2020-06-01
+  - degree: MS in Computational and Mathematical Engineering
+    institution: Stanford University
+    end: 2013-06-01
+  - degree: BS in Computer Science and BS in Mathematics, minor in Music
+    institution: University of California, San Diego
+    end: 2011-06-01

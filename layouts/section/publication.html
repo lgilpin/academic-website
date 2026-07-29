@@ -1,0 +1,70 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style" itemprop="articleBody">{{ . }}</div>
+      {{ end }}
+
+      {{ $pubTypes := partial "functions/get_pub_types" $ }}
+      {{ $groups := .Pages.ByDate.Reverse.GroupByDate "2006" }}
+
+      <div class="form-row mb-4" id="publication-filters">
+        <div class="col-auto">
+          <input type="search" class="publication-filter-search form-control form-control-sm"
+                 placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+                 autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="publication-filter-type form-control form-control-sm">
+            <option value="*">{{ i18n "publication_type" }}</option>
+            {{ range $index, $_ := site.Taxonomies.publication_types }}
+            <option value="{{ int $index }}">{{ index $pubTypes (int $index) }}</option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="publication-filter-year form-control form-control-sm">
+            <option value="*">{{ i18n "date" }}</option>
+            {{ range $groups }}
+            <option value="{{ .Key }}">{{ .Key }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+
+      <div id="grouped-publications">
+        {{ range $groups }}
+        <section class="publication-year-group" data-year="{{ .Key }}">
+          <h2 class="publication-year-heading">{{ .Key }}</h2>
+          {{ range .Pages }}
+            {{ $pubType := "0" }}
+            {{ with .Params.publication_types }}
+              {{ $pubType = string (index . 0) }}
+            {{ end }}
+            <div class="publication-entry" data-type="{{ $pubType }}">
+              {{ if eq $.Params.view 1 }}
+                {{ partial "li_list" . }}
+              {{ else if eq $.Params.view 3 }}
+                {{ partial "li_card" . }}
+              {{ else if eq $.Params.view 4 }}
+                {{ partial "li_citation" . }}
+              {{ else }}
+                {{ partial "li_compact" . }}
+              {{ end }}
+            </div>
+          {{ end }}
+        </section>
+        {{ end }}
+      </div>
+
+      <p class="publication-no-results" hidden>{{ i18n "search_no_results" }}</p>
+    </div>
+  </div>
+</div>
+
+{{- end -}}

@@ -1,0 +1,69 @@
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: "Leilani H. Gilpin"
+    organization: "UC Santa Cruz"
+    type: person
+    tagline: "Assistant Professor at UC Santa Cruz"
+    description: "Leilani H. Gilpin researches explainable artificial intelligence, anomaly detection, and system debugging."
+    social:
+      twitter: "leilanigilpin"
+  theme:
+    mode: light
+    pack: "default"
+    colors:
+      primary: "#003c6c"
+      secondary: "#006aad"
+      neutral: ""
+  typography:
+    pack: "academic"
+  layout:
+    radius: "md"
+    spacing: "spacious"
+    avatar_shape: circle
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+  copyright:
+    notice: "© {year} {name}"
+    license:
+      type: custom
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+    citations:
+      style: apa
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+  comments:
+    enable: false
+    provider: ""
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+  security:
+    frame_options: allow

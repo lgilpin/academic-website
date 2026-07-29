@@ -1,0 +1,51 @@
+{{/* Featured Content Widget with a video-preview view for talks. */}}
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $itemsType := $st.Params.content.page_type | default "post" }}
+{{ $itemsCount := $st.Params.content.count | default 65535 }}
+{{ $itemsSort := $st.Params.content.order | default "desc" }}
+{{ $query := where (where site.RegularPages "Type" $itemsType) "Params.featured" true }}
+
+{{ if $st.Params.content.filters.tag }}
+  {{ $archivePage := site.GetPage (printf "tags/%s" $st.Params.content.filters.tag) }}
+  {{ $query = $query | intersect $archivePage.Pages }}
+{{ end }}
+{{ if $st.Params.content.filters.category }}
+  {{ $archivePage := site.GetPage (printf "categories/%s" $st.Params.content.filters.category) }}
+  {{ $query = $query | intersect $archivePage.Pages }}
+{{ end }}
+{{ if $st.Params.content.filters.publication_type }}
+  {{ $archivePage := site.GetPage (printf "publication_types/%s" $st.Params.content.filters.publication_type) }}
+  {{ $query = $query | intersect $archivePage.Pages }}
+{{ end }}
+
+{{ $query = sort $query "Date" $itemsSort }}
+{{ $query = first $itemsCount $query }}
+
+<div class="row">
+  <div class="col-12 section-heading text-center">
+    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12">
+    <div class="row justify-content-center">
+      {{ range $query }}
+        {{ if and (eq $itemsType "talk") (eq $st.Params.design.view 5) }}
+        <div class="col-lg-4 col-md-6 mb-4">
+          {{ partial "li_featured_talk_video" . }}
+        </div>
+        {{ else if eq $st.Params.design.view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq $st.Params.design.view 3 }}
+        <div class="col-lg-4 col-md-6 mb-4">
+          {{ partial "li_card" . }}
+        </div>
+        {{ else if and (eq $st.Params.design.view 4) (eq $itemsType "publication") }}
+          {{ partial "li_citation" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>

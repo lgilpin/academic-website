@@ -6,10 +6,13 @@
 
 My mentoring philosophy is to create a healthy culture of scientific
 inquiry in which students develop their own research narratives and
-all group members receive regular feedback.  The best way to work with
-me is to consider joining the [[https://aiea-lab.github.io/join/][AIEA lab]].  The link has detailed
-information on the capacity of the lab and what it is like working
-with our research 'ohana.
+all group members receive regular feedback.
+
+For information about joining the lab, including our application
+process and pathways for PhD, master's, undergraduate, high-school,
+and external students, please see the [[https://aiea-lab.github.io/join/][AIEA Lab Join Us page]].  The link
+has detailed information on the capacity of the lab and what it is
+like working with our research [[https://en.wikipedia.org/wiki/Ohana]['ohana]].
 
 The reminder of  this document is about what it is like working with
 *me* as an advisor.  I have a publicly accessible [[https://docs.google.com/document/d/1tVbPMSP9ZpXZhgrh5KqytrKBisNkOL7djxjbJtNmiX8/edit?usp=sharing][Advising statement]]
@@ -31,16 +34,127 @@ advising style:
 - Thinking critically and mindfully about problems both as an
   individual contributor and within a group.
 - Taking vacation, using sick time, and asking for accommodations.
-
   
 
 * Emailing me
 I get a lot of emails and many of them are increasingly AI generated.
 Many of the questions in those emails are likely answered here or on
 the [[https://aiea-lab.github.io/join/][AIEA lab]] lab page.  Before emailing me, please take a look at the
-documents linked on this page; including
-1.  Read through my research values....
+documents linked on this page as well as the values below:
 
-** My Research Values
+** What I Value
+This is based off the [[https://aiea-lab.github.io/][AIEA lab]] values.
 
-Include ideas from https://www.benjixie.com/post/students/
+*** Inspiration
+I want us to pursue ambitious questions that matter. Students are
+encouraged to bring new ideas, question our assumptions, and help
+shape the direction of their projects.
+
+*** Respect and Empowerment
+Every lab member should be treated as an intellectual contributor,
+regardless of seniority. I want students to feel ownership over their
+work and receive appropriate recognition for their ideas and
+contributions.
+
+Respect also means valuing one another's time, communicating clearly,
+and giving feedback with care.
+
+*** Joy
+Research is difficult, but a research group should still be a place of
+curiosity, friendship, celebration, and joy. We take our work
+seriously without believing that good research requires constant
+stress or competition.
+
+*** Accountability
+We study accountable AI, and accountability should also characterize
+how we work. This means documenting decisions, being honest about
+results and limitations, following through on commitments, and
+communicating early when something is not working.
+
+*** Leadership
+Leadership is an important part of research training.
+
+As students gain experience, I will encourage them to lead meetings,
+mentor newer students, evaluate deliverables, make project decisions,
+and take responsibility for lab activities. Leadership does not mean
+doing everything yourself. It means creating enough clarity,
+structure, and support for other people to succeed.
+
+I also expect experienced lab members to help make knowledge and
+opportunities accessible to those who are newer to research.
+
+** On AI Generated Emails
+I want to hear your thoughts and feelings and not those of a
+conversational AI tool (like ChatGPT, Claude, Gemini, etc.)  I promise
+that my emails are written by me, and I expect the same of those that
+I work with.  It is how I show that I am committed to working with you
+and that I care about our correspondences.
+
+I don't have time to respond to every email I receive, so if I suspect
+an email is AI generated, I will likely ignore it.  The best way to
+increase the likelihood of getting a response is to (1) write the
+email yourself and (2) follow the guidelines outlined below.
+
+My lab (the AIEA lab) does have an [[https://docs.google.com/document/d/17NASmdDLLPcGml3KrxbCCfOigCySlzw0a7FitEiz3Ng/edit?usp=sharing][AI policy]], which you can examine to
+see if this is aligned with your values.  If you have questions about
+it, please do send me an email (written by yourself).  
+
+** Ready?
+Did you read the values, lab website and advising statement?  Do we
+have a sufficient overlap in research values and interests?  Do you
+want to work with me or are there questions you have that aren't
+answered here?  You can either:
+1. Fill out the [[https://forms.gle/CpmrgSxGSUvDWo3J7][AIEA lab interest form]], and you will get a response
+  in 24-48 hours.
+2. Send me an email to lgilpin =at= ucsc.edu (where =at= is replaced
+   with the =@= symbol) with the following information:
+   1. Where are you in your research journey? For current students,
+      indicate what program and year of your program you’re in
+      (e.g. 3rd year undergraduate majoring in CS). For prospective
+      students, indicate what program you’re interested in and the
+      status of your application (e.g. interested in a PhD in CS
+      starting Fall next year, but have not applied yet).
+   2. Briefly describe a potential research project: In a short
+      paragraph, describe to me a potential research idea you have. I
+      highly recommend using the following format or template, based
+      off Patrick Winston's VSNC model:
+      1. Vision: What is the problem (possibly illustrated with an
+         example)?  What do you hope to advance with this project?
+      2. Steps: What steps will you take to solve the problem?
+      3. News: What new things do you hope to discover?  Why is it
+         challenging and unsolved?
+      4. Contributions: How could this project advance knowledge or
+         research impact?  
+   3. Let me know of any deadlines you have (e.g. need to find a
+      thesis advisor before the fall quarter begins).
+   4. Let me know what questions I can answer.
+   5. Other notes on emailing me:
+      - You may (but are not required to) attach a resume or CV or
+        link to a website or portfolio.
+      - Please do NOT send me any transcripts.
+      - If I haven’t responded to you, please feel free to follow up
+        in a week.
+
+* A final note: I'm not scary
+Did reading this make you feel intimidated or scared to email me?  I
+understand that and it's valid to feel that way.  I was really scared
+to email professors when I was a student (and I still am!)  I promise
+that I'm not that scary and I want to talk to you (and again, not an
+AI)!
+
+If you have additional questions, feel free to email me.  The idea of
+this document is to answer common questions, not to intimidate those
+to ask such questions.  If it feels easier, you can also [[https://calendar.app.google/pp3F3vFoiu29JwN66][schedule a
+conversation]].
+
+I try to respond to every *valid email* I receive (see my note about
+AI written emails above).  So if you are waiting for a response,
+please don't hesitate to follow up.  The worst thing is that I may not
+respond (because I am very busy and get hundreds of emails a day), or
+I ask you to clarify something.
+
+** Note and References
+This is an inspiration from [[https://www.benjixie.com/post/students/][Benje Xie's post]] on working with students,
+specifically, "I promise I'm not scary."  I couldn't have said it
+better myself!  Fun fact, we shared an office my first year of my PhD!
+

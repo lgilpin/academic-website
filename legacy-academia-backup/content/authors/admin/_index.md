@@ -35,11 +35,9 @@ interests:
 #[Story-enabled intelligence](http://logical.ai/story/)
 - AI & Ethics
 
-display_education: true
-
 education:
   courses:
-  - course: PhD in Electrical Engineering and Computer Science
+  - course: PhD in Electrial Engineering and Computer Science
     institution: Massachusetts Institute of Technology
     year: 2020 
   - course: M.S. in Computational and Mathematical Engineering
@@ -118,9 +116,6 @@ monitoring, designing, and augmenting complex machines that can
 **explain** themselves for diagnosis, accountability, and
 liability. My long-term research vision is for self-explaining,
 intelligent, machines by design.
-
-Read more about my approach to communication, collaboration, and mentoring on
-the [Working With Me](post/working-with-me/) page.
 
 <!-- I am currently looking for motivated PhD students; please see [this post](post/recruiting/) and
 reach out to me on Twitter or by email if the above description
