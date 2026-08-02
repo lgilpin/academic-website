@@ -71,9 +71,14 @@
 {{ else }}
 {{ with $page.Params.url_project }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  {{ i18n "btn_project" }}
+  {{ if eq $page.Section "publication" }}Paper{{ else }}{{ i18n "btn_project" }}{{ end }}
 </a>
 {{ end }}
+{{ end }}
+{{ with $page.Params.url_paper }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
+  Paper
+</a>
 {{ end }}
 {{ with $page.Params.url_poster }}
   {{ $resource := $page.Resources.GetMatch . }}

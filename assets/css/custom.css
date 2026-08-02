@@ -1,0 +1,104 @@
+/* Personal-site presentation overrides. */
+
+#profile > img.img-fluid {
+  display: block;
+  width: min(300px, 100%);
+  aspect-ratio: 1 / 1;
+  margin-right: auto;
+  margin-left: auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.home-section .col-lg-5 > .network-icon {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: fit-content;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.network-icon a {
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  font-size: 1.35rem;
+}
+
+.btn-links .btn {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.85rem;
+}
+
+.see-all {
+  display: block;
+  flex: 0 0 100%;
+  clear: both;
+  width: 100%;
+  padding-top: 0.75rem;
+  text-align: center;
+}
+
+.see-all a {
+  display: inline-block;
+  font-size: 1.05rem;
+}
+
+.see-all .fas {
+  margin-left: 0.3rem;
+  font-size: 1.1em;
+}
+
+.publication-year-group {
+  margin-top: 2.5rem;
+}
+
+.publication-year-heading {
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid currentColor;
+}
+
+.publication-entry {
+  margin-bottom: 1.25rem;
+}
+
+.col-lg-5 .portrait-title {
+  margin: 0 auto 1.5rem;
+  text-align: center;
+}
+
+.col-lg-5 .portrait-title h2 {
+  margin-top: 0.75rem;
+}
+
+.featured-talk-video-card {
+  height: 100%;
+  overflow: hidden;
+}
+
+.featured-talk-video {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  overflow: hidden;
+  background: #001f3f;
+}
+
+.featured-talk-video iframe,
+.featured-talk-video video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.profile-details {
+  margin-top: 2rem;
+}
+
+.profile-details h3 {
+  margin-bottom: 1rem;
+}
