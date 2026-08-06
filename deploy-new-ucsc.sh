@@ -6,8 +6,8 @@ set -e
 # Set the config file
 cp config/_default/config-ucsc.toml config/_default/config.toml
 
-# Build the project.
-hugo -t my-academic # if using a theme, replace with `hugo -t <YOURTHEME>`
+# Build with the same theme used by the local site.
+hugo -t academia-hugo
 
 # after kinit/aklog
 # might want to try rsync: https://unix.stackexchange.com/questions/29845/how-can-i-do-a-copy-if-changed-operation
